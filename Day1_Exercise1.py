@@ -1,4 +1,4 @@
-#DAY 1 project
+#DAY 1 PROJECT 1
 
 #1. Create a greeting for your program.
 
@@ -19,3 +19,4 @@ pet = input("What is your pet's name?\n")
 #print(pet)
 band_name = (city + " " + pet)
 print("Your band name could be " + band_name)
+
